@@ -50,10 +50,12 @@ h3{
     font-size: 25px;
 }
 
-h2{
-    color:black;
+h4{
+    color:midnightblue;
     font-weight: 400;
     font-size: 16px;
+    margin:0;
+    padding:8px; 
 }
 
 footer {
